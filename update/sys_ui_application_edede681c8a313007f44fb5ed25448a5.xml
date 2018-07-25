@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Loaner Request</name>
+        <order/>
+        <roles>x_snc_repotest_zol.loaner_request_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 13:18:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>edede681c8a313007f44fb5ed25448a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RepoTest-Zoltan" source="x_snc_repotest_zol">13efdd4dc82313007f44fb5ed25448fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RepoTest-Zoltan">13efdd4dc82313007f44fb5ed25448fe</sys_scope>
+        <sys_update_name>sys_ui_application_edede681c8a313007f44fb5ed25448a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-25 13:50:34</sys_updated_on>
+    </sys_ui_application>
+</record_update>
