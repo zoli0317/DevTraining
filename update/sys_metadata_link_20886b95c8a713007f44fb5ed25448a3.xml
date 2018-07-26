@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6c30b2c1c8a313007f44fb5ed254482d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_repotest_zol_loaner_request">
+    <x_snc_repotest_zol_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <asset_barcode/>
+        <assigement_group/>
+        <assigned_to display_value="Bud Richman">46c6f9efa9fe198101ddf5eed9adf6e7</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="Blackberry">27d3f35cc0a8000b001df42d019a418f</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>ny</depot>
+        <description>1</description>
+        <due_date/>
+        <end_date>2018-08-02 08:15:27</end_date>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_mobile_device</item_type>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>LNR002002</number>
+        <opened_at>2018-07-25 13:28:29</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Benjamin Schkade">f2826bf03710200044e0bfc8bcbe5df2</requested_for>
+        <short_description>1</short_description>
+        <sla_due/>
+        <start_date>2018-07-27 08:15:19</start_date>
+        <state>1</state>
+        <sys_class_name>x_snc_repotest_zol_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-25 13:28:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c30b2c1c8a313007f44fb5ed254482d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 11:46:49</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_repotest_zol_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 12:13:00</sys_created_on>
+        <sys_id>20886b95c8a713007f44fb5ed25448a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002002</sys_name>
+        <sys_package display_value="RepoTest-Zoltan" source="x_snc_repotest_zol">13efdd4dc82313007f44fb5ed25448fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RepoTest-Zoltan">13efdd4dc82313007f44fb5ed25448fe</sys_scope>
+        <sys_update_name>sys_metadata_link_20886b95c8a713007f44fb5ed25448a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 12:13:00</sys_updated_on>
+        <tablename>x_snc_repotest_zol_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
