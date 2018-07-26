@@ -5,27 +5,27 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>5d2eaa81c8a313007f44fb5ed2544823</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>50c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>552eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>d0c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,27 +33,27 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>d52eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>54c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>assigned_to</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>592eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>d4c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,111 +61,111 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>d92eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>58c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>5d2eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>d8c91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>start_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>dd2eaa81c8a313007f44fb5ed2544824</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>5cc91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
+            <element>end_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>512eaa81c8a313007f44fb5ed2544825</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>dcc91791c8a713007f44fb5ed25448eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
+            <element>item_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>d12eaa81c8a313007f44fb5ed2544825</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>50c91791c8a713007f44fb5ed25448ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
-            <type>.end_split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>location_to_be_used</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>552eaa81c8a313007f44fb5ed2544825</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>d0c91791c8a713007f44fb5ed25448ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
+            <element>depot</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>d52eaa81c8a313007f44fb5ed2544825</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>54c91791c8a713007f44fb5ed25448ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>other</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-25 13:19:32</sys_created_on>
-            <sys_id>592eaa81c8a313007f44fb5ed2544825</sys_id>
+            <sys_created_on>2018-07-26 11:08:33</sys_created_on>
+            <sys_id>d4c91791c8a713007f44fb5ed25448ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">d92eaa81c8a313007f44fb5ed2544822</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-25 13:19:32</sys_updated_on>
+            <sys_updated_on>2018-07-26 11:08:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
