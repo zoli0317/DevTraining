@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>24</choices>
+        <description>Number of hours before a reservation</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_repotest_zol.return.remindtime</name>
+        <read_roles>x_snc_repotest_zol.admin</read_roles>
+        <suffix>return.remindtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 08:11:50</sys_created_on>
+        <sys_id>f09a3fedc86b13007f44fb5ed2544853</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_repotest_zol.return.remindtime</sys_name>
+        <sys_package display_value="RepoTest-Zoltan" source="x_snc_repotest_zol">13efdd4dc82313007f44fb5ed25448fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RepoTest-Zoltan">13efdd4dc82313007f44fb5ed25448fe</sys_scope>
+        <sys_update_name>sys_properties_f09a3fedc86b13007f44fb5ed2544853</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-27 08:23:07</sys_updated_on>
+        <type>integer</type>
+        <value>12</value>
+        <write_roles>x_snc_repotest_zol.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=f09a3fedc86b13007f44fb5ed2544853"/>
+</record_update>

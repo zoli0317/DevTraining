@@ -18,16 +18,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-26 08:07:45</sys_created_on>
+            <sys_created_on>2018-07-27 10:38:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>086072d5c86713007f44fb5ed254481f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>c18c9c39c8ab13007f44fb5ed2544809</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_repotest_zol_loaner_request" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">c06072d5c86713007f44fb5ed254481c</sys_ui_form>
-            <sys_ui_section caption="Log" display_value="Log" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">886072d5c86713007f44fb5ed254481a</sys_ui_section>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">c98c9c39c8ab13007f44fb5ed2544805</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 08:07:45</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:38:43</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -35,13 +35,27 @@
             <sys_created_on>2018-07-26 08:07:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>086072d5c86713007f44fb5ed254481f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_repotest_zol_loaner_request" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">c06072d5c86713007f44fb5ed254481c</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">886072d5c86713007f44fb5ed254481a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-27 10:38:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 08:07:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>046072d5c86713007f44fb5ed2544823</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_repotest_zol_loaner_request" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">c06072d5c86713007f44fb5ed254481c</sys_ui_form>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_repotest_zol_loaner_request" sys_domain="global" view="Default view">846072d5c86713007f44fb5ed254481b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-26 08:07:45</sys_updated_on>
+            <sys_updated_on>2018-07-27 10:38:43</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_repotest_zol_loaner_request</name>

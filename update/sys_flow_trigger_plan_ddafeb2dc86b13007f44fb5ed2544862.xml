@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>2fdcafe9c86b13007f44fb5ed25448ee</plan_id>
+        <snapshot>f4afeb2dc86b13007f44fb5ed2544821</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 07:22:40</sys_created_on>
+        <sys_id>ddafeb2dc86b13007f44fb5ed2544862</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4dafeb2dc86b13007f44fb5ed2544860</sys_name>
+        <sys_package display_value="RepoTest-Zoltan" source="x_snc_repotest_zol">13efdd4dc82313007f44fb5ed25448fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RepoTest-Zoltan">13efdd4dc82313007f44fb5ed25448fe</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_ddafeb2dc86b13007f44fb5ed2544862</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-27 07:22:40</sys_updated_on>
+        <trigger display_value="">4dafeb2dc86b13007f44fb5ed2544860</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

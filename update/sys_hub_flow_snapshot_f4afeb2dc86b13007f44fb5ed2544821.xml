@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Basic flow</description>
+        <label_cache>[{"name":"0cfd1177-05fd-47b7-98e6-922a5668d1ff.table_name","label":"6➛Loaner Request Table","reference":"x_snc_repotest_zol_loaner_request","reference_display":"Loaner Request Table"},{"name":"0cfd1177-05fd-47b7-98e6-922a5668d1ff.record","label":"6➛Loaner Request Record","reference":"x_snc_repotest_zol_loaner_request","reference_display":"Loaner Request Record"},{"name":"f9d9e208-9b0f-468d-a803-7199b0b4116a.table_name","label":"3➛Loaner Request Table","reference":"x_snc_repotest_zol_loaner_request","reference_display":"Loaner Request Table"},{"name":"f9d9e208-9b0f-468d-a803-7199b0b4116a.record","label":"3➛Loaner Request Record","reference":"x_snc_repotest_zol_loaner_request","reference_display":"Loaner Request Record"},{"name":"620fe858-596d-41b0-86d0-a38dce548949.Record","label":"5➛Loaner Task Record","reference":"x_snc_repotest_zol_loaner_task","reference_display":"Loaner Task Record"},{"name":"620fe858-596d-41b0-86d0-a38dce548949.Table","label":"5➛Loaner Task Table","reference":"x_snc_repotest_zol_loaner_task","reference_display":"Loaner Task Table"},{"name":"0e034497-b5dd-4168-9911-50cef20ee512.Record","label":"2➛Loaner Task Record","reference":"x_snc_repotest_zol_loaner_task","reference_display":"Loaner Task Record"},{"name":"0e034497-b5dd-4168-9911-50cef20ee512.Table","label":"2➛Loaner Task Table","reference":"x_snc_repotest_zol_loaner_task","reference_display":"Loaner Task Table"},{"name":"Created or Updated_1.current","label":"Trigger➛Loaner Request Record","reference":"x_snc_repotest_zol_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"}]</label_cache>
+        <name>Loaner Laptop</name>
+        <parent_flow display_value="Loaner Laptop">2fdcafe9c86b13007f44fb5ed25448ee</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 07:22:38</sys_created_on>
+        <sys_id>f4afeb2dc86b13007f44fb5ed2544821</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Laptop</sys_name>
+        <sys_package display_value="RepoTest-Zoltan" source="x_snc_repotest_zol">13efdd4dc82313007f44fb5ed25448fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RepoTest-Zoltan">13efdd4dc82313007f44fb5ed25448fe</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_f4afeb2dc86b13007f44fb5ed2544821</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-27 07:22:38</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
